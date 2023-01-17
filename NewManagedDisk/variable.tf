@@ -1,6 +1,6 @@
 variable "rgname" {
   type = string
-  default = "test2"
+  default = "test22"
   description = "this is resource group name for managed disk"
 }
 variable "rglocation" {
