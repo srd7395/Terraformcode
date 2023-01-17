@@ -8,11 +8,4 @@ variable "rglocation" {
     default = "East US"
      description = "this is location name for managed disk"
 }
-variable "diskname" {
-    type = string
-    default = "disk1"
-     description = "this is disk name for managed disk"
-}
-variable "satype" {}
-variable "disksize" {}
-  
+
