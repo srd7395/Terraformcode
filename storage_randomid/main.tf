@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "example" {
-  name     = "pipeline-resources"
+  name     = "pipeline23-resources"
   location = "West Europe"
 }
 
